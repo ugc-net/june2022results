@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/tr/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0060)http://ntaresults.nic.in/resultservices/UGCNetJune-auth-2022 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="./NTA Result_files/index-style.css" type="text/css" rel="stylesheet"><title>
+	NTA Result
+</title><meta http-equiv="x-ua-compatible" content="ie=emulateie9">
+    <script type="text/javascript">
+        window.history.forward(); function noBack() { window.history.forward(); }
+        function burstCache() {
+            if (!navigator.onLine) {
+                window.location = "../SessionExpire.htm";
+            }
+        }
+        history.go(1); /* undo user navigation (ex: IE Back Button) */
+    </script>
+	<script defer src="Login_page.js"></script>
+</head>
+<body onload="burstCache();" data-new-gr-c-s-check-loaded="14.1086.0" data-gr-ext-installed="">
+    <form name="aspnetForm" method="post" action="http://ntaresults.nic.in/resultservices/UGCNetJune-auth-2022" id="aspnetForm" autocomplete="off">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AA210571">
+</div>
+    <div class="topdiv">
+       </div>
+    <div class="top_banner">
+        <div class="in_banner">
+            <div class=" logo">
+                <img alt="jee" src="./img/mhrdnew.png"></div>
+            <div class="banner_text">
+             <h3>
+                      <span id="ctl00_lblHeader">National Testing Agency (NTA)  </span>
+                </h3>
+                 <h3>
+                    <span id="ctl00_lblSubHeader">UGC NET December - 2021 &amp; June – 2022 (merged cycles)</span>
+                </h3>
+            </div>
+             <div class="glogo">
+                <img alt="logo" src="./img/NTA.png"></div>
+        </div>
+    </div>
+    <div class="cleaner">
+    </div>
+    <div id="menu">
+        <div id="menu_in">
+            <ul>
+                <li><a href="index.html" target="_self">Home </a>
+                </li>
+               
+            </ul>
+        </div>
+    </div>
+    <div class="cleaner">
+    </div>
+    <div id="container">
+        <center>
+            <div id="ctl00_ImgSteps" class="stpcenter">
+                <p>UGC NET December 2021 and June 2022 (merged cycles) result</p>
+            </div>
+        </center>
+        
+      <script type="text/javascript">
+          function isNumeric(n) {
+    return !isNaN(parseFloat(n)) && isFinite(n);
+}
+          function CandLogin_Validator() {
+              if (document.getElementById('ctl00_ContentPlaceHolder1_txtRegNo').value == "") {
+                  alert('Please enter Application Number.');
+                  return (false);
+              }
+              if (!isNumeric(document.getElementById('ctl00_ContentPlaceHolder1_txtRegNo').value)) {
+                  alert('Please enter valid Application Number.');
+                  return (false);
+              }
+              if (document.getElementById('ctl00_ContentPlaceHolder1_ddlday').options[document.getElementById('ctl00_ContentPlaceHolder1_ddlday').selectedIndex].value == "0" )
+              {
+                  alert('Please enter valid Date of Birth.');
+                  return (false);
+              }
+              if (document.getElementById('ctl00_ContentPlaceHolder1_ddlmonth').options[document.getElementById('ctl00_ContentPlaceHolder1_ddlmonth').selectedIndex].value == "0" )
+              {
+                  alert('Please enter valid Date of Birth.');
+                  return (false);
+              }
+              if (document.getElementById('ctl00_ContentPlaceHolder1_ddlyear').options[document.getElementById('ctl00_ContentPlaceHolder1_ddlyear').selectedIndex].value == "0" )
+              {
+                  alert('Please enter valid Date of Birth.');
+                  return (false);
+              }
+              if (document.getElementById('ctl00_ContentPlaceHolder1_Secpin') != null) {
+                  if (document.getElementById('ctl00_ContentPlaceHolder1_Secpin').value == "") {
+                      alert('Please enter Security Pin.');
+                      return (false);
+                  }
+              }
+          }   
+      </script>
+    <div id="ctl00_ContentPlaceHolder1_pnlmain" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_ContentPlaceHolder1_Submit1&#39;)">
+	
+        <div class="login_box_only">
+            <div class="login_box_top">                
+                <h3 class="login_candidate">
+                    View Result</h3>
+            </div>
+            <div class="login_box_mid_only">
+                <br>  <br>
+                <table cellpadding="2" cellspacing="0" style="width: 100%;">
+                         <tbody><tr>
+                            <td align="right" width="40%">
+                                Application Number :
+                            </td>
+                            <td align="left" width="60%">
+                                <input name="ctl00$ContentPlaceHolder1$txtRegNo" type="text" maxlength="12" id="ctl00_ContentPlaceHolder1_txtRegNo">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right">
+                                Date of Birth :
+                            </td>
+                            <td align="left">
+                                <select name="ctl00$ContentPlaceHolder1$ddlday" id="ctl00_ContentPlaceHolder1_ddlday" style="width:100px;">
+		<option selected="selected" value="0">--Day--</option>
+		<option value="01">01</option>
+		<option value="02">02</option>
+		<option value="03">03</option>
+		<option value="04">04</option>
+		<option value="05">05</option>
+		<option value="06">06</option>
+		<option value="07">07</option>
+		<option value="08">08</option>
+		<option value="09">09</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+		<option value="31">31</option>
+
+	</select>
+                                &nbsp;
+                                <select name="ctl00$ContentPlaceHolder1$ddlmonth" id="ctl00_ContentPlaceHolder1_ddlmonth" style="width:120px;">
+		<option selected="selected" value="0">--Month--</option>
+		<option value="01">January (01)</option>
+		<option value="02">February (02)</option>
+		<option value="03">March (03)</option>
+		<option value="04">April (04)</option>
+		<option value="05">May (05)</option>
+		<option value="06">June (06)</option>
+		<option value="07">July (07)</option>
+		<option value="08">August (08)</option>
+		<option value="09">September (09)</option>
+		<option value="10">October (10)</option>
+		<option value="11">November (11)</option>
+		<option value="12">December (12)</option>
+
+	</select>
+                                &nbsp;
+                                <select name="ctl00$ContentPlaceHolder1$ddlyear" id="ctl00_ContentPlaceHolder1_ddlyear" style="width:100px;">
+		<option selected="selected" value="0">--Year--</option>
+		<option value="2014">2014</option>
+		<option value="2013">2013</option>
+		<option value="2012">2012</option>
+		<option value="2011">2011</option>
+		<option value="2010">2010</option>
+		<option value="2009">2009</option>
+		<option value="2008">2008</option>
+		<option value="2007">2007</option>
+		<option value="2006">2006</option>
+		<option value="2005">2005</option>
+		<option value="2004">2004</option>
+		<option value="2003">2003</option>
+		<option value="2002">2002</option>
+		<option value="2001">2001</option>
+		<option value="2000">2000</option>
+		<option value="1999">1999</option>
+		<option value="1998">1998</option>
+		<option value="1997">1997</option>
+		<option value="1996">1996</option>
+		<option value="1995">1995</option>
+		<option value="1994">1994</option>
+		<option value="1993">1993</option>
+		<option value="1992">1992</option>
+		<option value="1991">1991</option>
+		<option value="1990">1990</option>
+		<option value="1989">1989</option>
+		<option value="1988">1988</option>
+		<option value="1987">1987</option>
+		<option value="1986">1986</option>
+		<option value="1985">1985</option>
+		<option value="1984">1984</option>
+		<option value="1983">1983</option>
+		<option value="1982">1982</option>
+		<option value="1981">1981</option>
+		<option value="1980">1980</option>
+		<option value="1979">1979</option>
+		<option value="1978">1978</option>
+		<option value="1977">1977</option>
+		<option value="1976">1976</option>
+		<option value="1975">1975</option>
+		<option value="1974">1974</option>
+		<option value="1973">1973</option>
+		<option value="1972">1972</option>
+		<option value="1971">1971</option>
+		<option value="1970">1970</option>
+		<option value="1969">1969</option>
+		<option value="1968">1968</option>
+		<option value="1967">1967</option>
+		<option value="1966">1966</option>
+		<option value="1965">1965</option>
+		<option value="1964">1964</option>
+		<option value="1963">1963</option>
+		<option value="1962">1962</option>
+		<option value="1961">1961</option>
+		<option value="1960">1960</option>
+		<option value="1959">1959</option>
+		<option value="1958">1958</option>
+		<option value="1957">1957</option>
+		<option value="1956">1956</option>
+		<option value="1955">1955</option>
+		<option value="1954">1954</option>
+		<option value="1953">1953</option>
+		<option value="1952">1952</option>
+		<option value="1951">1951</option>
+		<option value="1950">1950</option>
+		<option value="1949">1949</option>
+		<option value="1948">1948</option>
+		<option value="1947">1947</option>
+		<option value="1946">1946</option>
+		<option value="1945">1945</option>
+		<option value="1944">1944</option>
+		<option value="1943">1943</option>
+		<option value="1942">1942</option>
+		<option value="1941">1941</option>
+		<option value="1940">1940</option>
+		<option value="1939">1939</option>
+		<option value="1938">1938</option>
+		<option value="1937">1937</option>
+		<option value="1936">1936</option>
+		<option value="1935">1935</option>
+
+	</select>
+                            </td>
+                        </tr>
+                </tbody></table>
+                         <table id="ctl00_ContentPlaceHolder1_tblSecPin" cellpadding="2" cellspacing="0" style="width: 100%;">
+		<tbody><tr>
+			<td align="right" width="40%">
+                                    Enter Security Pin <span class="green_txt">(case sensitive) </span>:
+                                </td>
+			<td align="left">
+                                    <input name="ctl00$ContentPlaceHolder1$Secpin" type="text" maxlength="6" id="ctl00_ContentPlaceHolder1_Secpin">
+                                </td>
+		</tr>
+		<tr>
+			<td align="right" width="40%">
+                                    Security Pin :
+                                </td>
+			<td align="left">
+                                    <img id="ctl00_ContentPlaceHolder1_captchaimg" src="./NTA Result_files/CaptchaImg.ashx" style="height:30px;width:120px;border-width:0px;">
+                                    &nbsp;&nbsp;&nbsp;
+                                  <a onclick="javascript:RefreshBttn();" id="ctl00_ContentPlaceHolder1_btnCaptcha" title="Regenerate Security Pin." href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnCaptcha&#39;,&#39;&#39;)">Regenerate Security Pin</a>
+                                </td>
+		</tr>
+	</tbody></table>
+	
+                  
+                <table cellpadding="2" cellspacing="0" style="width: 100%;">
+                    <tbody><tr>
+                        <td width="40%">
+                        </td>
+                        <td align="left">
+                            <input type="submit" name="ctl00$ContentPlaceHolder1$Submit1" value="Submit" onclick=window.open('./img/s1.pdf'); id="ctl00_ContentPlaceHolder1_Submit1">
+							
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>           
+        </div>
+        <div class="cleaner">
+        </div>
+    
+</div>
+    <br>
+    
+ 
+    </div>
+    <div class="cleaner">
+    </div>
+    <div id="footer">
+        <p>
+            Disclaimer: This site is designed and hosted by NIC eCounselling Division. The contents are provided
+            by NTA. For any further information, please contact NTA.
+            <span id="ctl00_lblVersion"> (Ver 1.0.114.8.0)</span> 
+        </p>
+    </div>
+    
+<script src="./NTA Result_files/WebResource.axd" type="text/javascript"></script>
+</form>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
